@@ -5,7 +5,7 @@ I created this project after I discovered that one of my friends had abandoned p
 :Authors:
     Ethan Dayley
 :Version:
-    1.0
+    1.0.2 beta
 :Dedication:
     To Jacob Adams, may he never stray again.
 
