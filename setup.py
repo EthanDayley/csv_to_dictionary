@@ -14,7 +14,7 @@ with open(path.join(here, 'README.rst'), encoding='utf-8') as f:
 
 setup(
         name="csv_to_dictionary",
-        version="1.0.0.dev1",
+        version="1.0.1.b1",
         description="Ultra simple csv to dictionary conversion library",
         long_description=long_description,
         url="https://github.com/EthanDayley/csv_to_dictionary",
