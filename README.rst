@@ -18,7 +18,8 @@ Usage
 -----
 
 ::
+
     import csv_to_dictionary
     csv_to_dictionary.convert_simple(your_csv_string)
 
-Feel free to contribute to this project hosted at the `Upstream URL <https://github.com/EthanDayley/csv_to_dictionary>`_.
+Feel free to contribute to this project hosted `On Github <https://github.com/EthanDayley/csv_to_dictionary>`_.
