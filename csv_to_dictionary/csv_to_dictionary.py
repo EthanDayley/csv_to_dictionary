@@ -1,4 +1,4 @@
-def convertSimple(csv):
+def convert_simple(csv):
     """
     csv should be a string that meets the RFC 4180 specification,
     with the additional requirement of a header line.
