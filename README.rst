@@ -5,8 +5,8 @@ I created this project after I discovered that one of my friends had abandoned p
 :Authors:
     Ethan Dayley
 :Version:
-    1.0.2 beta
+    1.0.2
 :Dedication:
-    To Jacob Adams, may he never stray again.
+    To Jacob, may he return to the ways of python.
 
 Feel free to contribute to this project hosted at the `Upstream URL <https://github.com/EthanDayley/csv_to_dictionary>`_.
